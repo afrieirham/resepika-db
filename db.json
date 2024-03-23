@@ -1,8 +1,28 @@
 {
   "resepi": [
     {
+      "title": "Gulai Ikan Kelantan",
+      "postUrl": "https://www.instagram.com/p/C41-8U2Pw8S/",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/resepika.appspot.com/o/thumbnails%2Fgulai-ikan-kelantan.jpeg?alt=media"
+    },
+    {
+      "title": "Ayam Goreng ala Raising Cane’s",
+      "postUrl": "https://www.instagram.com/p/C4zYFsDPSvi/",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/resepika.appspot.com/o/thumbnails%2Fayam-raising-canes.jpeg?alt=media"
+    },
+    {
+      "title": "Ayam Kicap Pedas, Sambal Gesek dan Telur Dadar 🤤",
+      "postUrl": "https://www.instagram.com/p/C4w2HLhvW7q/",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/resepika.appspot.com/o/thumbnails%2Fayam-kicap-pedas.jpeg?alt=media"
+    },
+    {
+      "title": "Buko Pandan 🍃",
+      "postUrl": "https://www.instagram.com/p/C4uQ_G0vDZj/",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/resepika.appspot.com/o/thumbnails%2Fbuko-pandan.jpeg?alt=media"
+    },
+    {
       "title": "Ikan Bakar Air Fryer",
-      "postUrl": "https://www.instagram.com/p/C4rreCjv3iV/ ",
+      "postUrl": "https://www.instagram.com/p/C4rreCjv3iV/",
       "thumbnail": "https://firebasestorage.googleapis.com/v0/b/resepika.appspot.com/o/thumbnails%2Fikan-bakar-airfryer.jpeg?alt=media"
     },
     {
