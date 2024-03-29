@@ -1,6 +1,26 @@
 {
   "resepi": [
     {
+      "title": "Badak Berendam",
+      "postUrl": "https://www.instagram.com/p/C5FbqQ7vt4Z/",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/resepika.appspot.com/o/thumbnails%2Fbadak-berendam.jpeg?alt=media"
+    },
+    {
+      "title": "Laksa Penang",
+      "postUrl": "https://www.instagram.com/p/C5C3VZPvIHn/",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/resepika.appspot.com/o/thumbnails%2Flaksa-penang.jpeg?alt=media"
+    },
+    {
+      "title": "Frozen Yogurt Bar",
+      "postUrl": "https://www.instagram.com/p/C5AT3FEvzhf/",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/resepika.appspot.com/o/thumbnails%2Ffrozen-yogurt-bar.jpeg?alt=media"
+    },
+    {
+      "title": "Ayam Masak Ros & Kacang Buncis Goreng Telur",
+      "postUrl": "https://www.instagram.com/p/C49tMeZPEww/",
+      "thumbnail": "https://firebasestorage.googleapis.com/v0/b/resepika.appspot.com/o/thumbnails%2Fayam-ros.jpeg?alt=media"
+    },
+    {
       "title": "Egg Drop Soup",
       "postUrl": "https://www.instagram.com/p/C47Is26vQMs/",
       "thumbnail": "https://firebasestorage.googleapis.com/v0/b/resepika.appspot.com/o/thumbnails%2Fegg-drop-soup.jpeg?alt=media"
