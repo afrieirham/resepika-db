@@ -1,12 +1,20 @@
 {
-  "name": "json-server-vercel",
-  "version": "1.0.0",
-  "description": "Deploy JSON Server to Vercel",
-  "main": "api/server.js",
+  "name": "resepika-db",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "@types/express": "^5.0.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
   "scripts": {
-    "start": "node api/server.js"
+    "start": "bun run index.ts",
+    "dev": "bun --hot index.ts"
   },
   "dependencies": {
-    "json-server": "^0.17.4"
+    "express": "^5.1.0"
   }
 }
