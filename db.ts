@@ -1,9 +1,9 @@
 export const resepi = [
-  {
-    title: "Mini Peach Strudel",
-    postUrl: "https://www.instagram.com/p/DHSqQnHyKwN/",
-    thumbnail: "https://storage.resepika.com/mini-peach-strudel.jpg",
-  },
+  // {
+  //   title: "Mini Peach Strudel",
+  //   postUrl: "https://www.instagram.com/p/DHSqQnHyKwN/",
+  //   thumbnail: "https://storage.resepika.com/mini-peach-strudel.jpg",
+  // },
   {
     title: "Mee Kari",
     postUrl: "https://www.instagram.com/p/DHP9Db0yiZC/",
